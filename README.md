@@ -1,4 +1,6 @@
-# SICP in Traditional Chinese
+# SICP in Simplified Chinese
+![](https://img.shields.io/github/license/violin0622/SICP-zh-cn)  
+
 由爱好者自行翻译的 [《SICP》 (Structure and Interpretation of Computer Programs by Harold Abelson and Gerald Jay Sussman)](http://mitpress.mit.edu/sicp/) 简体中文版。
 
 第一章节参考了 [这里](wabilin/SICP-zh-tw)，感谢这位小哥的贡献。
